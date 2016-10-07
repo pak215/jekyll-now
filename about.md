@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Parker Kruzel is a Computer Science major at the University of Texas at Austin.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In addition to being a programmer, Parker also enjoys video and tabletop games, having attended tournaments for Pokemon (both the card game and video games), Smash 4, and Dota 2.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pak215.izzle@gmail.com](mailto:pak215.izzle@gmail.com)
