@@ -9,7 +9,7 @@ Parker Kruzel is a University of Texas at Austin Computer Science graduate.
 ## Technical Skills
 
 ### Programming Languages
-Proficiency in Java, C++, and Python
+Proficiency in Java, C++, and Python,
 Experience with JavaScript, SQL, HTML, XML, Ruby
 
 ### Operating Systems
@@ -24,13 +24,13 @@ Machine Learning, SOLID principles, Object-Oriented Design, Software Testing
 ## Professional Experience
 
 ### Instructor
-iD Tech Camps, June 2017 - July 2017
-Austin, Texas
+iD Tech Camps, June 2017 - July 2017,
+Austin, Texas,
 Responsible for instructing eight 10-12 year old students each week on how to create Minecraft mods by programming in Java and JavaScript
 
 ### Student Technician
 The University of Texas at Austin, Feb 2017 - May 2017
-Austin, Texas
+Austin, Texas,
 Tasked with inventory management, network setups and data entry. Wrote Python scripts to automate cross referencing and data conversion to improve equipment-tracking efficiency.
 
 ## Education
