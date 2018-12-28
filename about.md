@@ -8,7 +8,7 @@ Parker Kruzel is a University of Texas at Austin Computer Science graduate.
 
 ## Technical Skills
 
-### Computer Science
+### Programming Languages
 Proficiency in Java, C++, and Python
 Experience with JavaScript, SQL, HTML, XML, Ruby
 
@@ -40,6 +40,9 @@ CSL Dota 2 team member
 
 ### UT Competitive Pokemon Club
 Event organizer
+
+### La Vernia High School Debate Team
+Lincoln-Douglass Debate
 
 ## Contact me
 
