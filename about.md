@@ -6,42 +6,42 @@ permalink: /about/
 
 Parker Kruzel is a University of Texas at Austin Computer Science graduate.
 
-### Technical Skills
+## Technical Skills
 
-## Computer Science
+### Computer Science
 Proficiency in Java, C++, and Python
 Experience with JavaScript, SQL, HTML, XML, Ruby
 
-## Operating Systems
+### Operating Systems
 Windows 7, 8, and 10, Ubuntu Linux
 
-## Software
+### Software
 TravisCI, Git, Docker, MS Office
 
-## Technological Concepts
+### Technological Concepts
 Machine Learning, SOLID principles, Object-Oriented Design, Software Testing
 
-### Professional Experience
+## Professional Experience
 
 
 
-### Education
+## Education
 
-## University of Texas at Austin, Texas
+### University of Texas at Austin, Texas
 BS in Computer Science, August 2014 - August 2018, GPA of 3.6
 
-## KTH Royal Institute of Technology, Stockholm, Sweden
+### KTH Royal Institute of Technology, Stockholm, Sweden
 Computer Science and Communications (CSC), Study Abroad, August 2017 - June 2018
 
-### Activities and Leadership
+## Activities and Leadership
 
-## Longhorn Gaming
+### Longhorn Gaming
 CSL Dota 2 team member
 
-## UT Competitive Pokemon Club
+### UT Competitive Pokemon Club
 Event organizer
 
-### Contact me
+## Contact me
 
 E-mail: [pak215.izzle@gmail.com](mailto:pak215.izzle@gmail.com)
 Phone:  512-758-0970
