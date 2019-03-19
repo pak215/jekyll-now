@@ -10,16 +10,16 @@ Parker Kruzel is a University of Texas at Austin Computer Science graduate.
 
 ### Programming Languages
 Proficiency in Java, C++, and Python,
-Experience with JavaScript, SQL, HTML, XML, Ruby
+Experience with JavaScript, SQL, HTML, XML, Ruby, C#
 
 ### Operating Systems
-Windows 7, 8, and 10, Ubuntu Linux
+Windows 7, 8, and 10, Linux
 
 ### Software
 TravisCI, Git, Docker, MS Office
 
 ### Technological Concepts
-Machine Learning, SOLID principles, Object-Oriented Design, Software Testing
+Machine Learning, SOLID principles, Object-Oriented Design, Unit/Acceptance Testing
 
 ## Professional Experience
 
